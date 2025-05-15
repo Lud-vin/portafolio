@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -11,6 +9,9 @@
 # production
 /build
 
+# tailwind
+/tailwind-output.css
+
 # misc
 .DS_Store
 .env.local
@@ -18,6 +19,14 @@
 .env.test.local
 .env.production.local
 
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+
+# editor/IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

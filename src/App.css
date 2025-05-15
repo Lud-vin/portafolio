@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Fira Code', monospace;
+  }
+  body {
+    background-color: #121212;
+    color: #ccc;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Scrollbar personalizado */
+  *::-webkit-scrollbar {
+    width: 6px;
+  }
+  *::-webkit-scrollbar-track {
+    background: #000000;
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: #5c5c5c;
+    border-radius: 10px;
+    border: 0px solid #ffffff;
+  }
+}
