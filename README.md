@@ -1,52 +1,46 @@
-# 🧑‍💻Portfolio
+# 🧑‍💻 Personal Portfolio
 
-Este es el repositorio de mi portafolio personal, construido con **React** y **Tailwind CSS**. Aquí muestro algunos de mis proyectos, habilidades y formas de contacto profesional.
+This is the repository for my personal portfolio, built with **React** and **Tailwind CSS**. It showcases some of my projects, skills, and provides a way to contact me professionally.
 
-## ✨ Demo
+## ✨ Live Demo
 
-Puedes ver el portafolio en línea aquí:  
-🔗 [https://tudominio.com](https://tudominio.com)
+Check out the portfolio live at:  
+🔗 [portfolio-lud.netlify.app](https://portfolio-lud.netlify.app)
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Technologies Used
 
 - ⚛️ React
 - 💨 Tailwind CSS
 - 🌐 HTML5 & CSS3
-- 📦 Vite (o Create React App, si aplica)
-- ☁️ Deploy: (Render, Netlify, Vercel o GitHub Pages)
+- 📦 Vite *(or Create React App, depending on setup)*
+- ☁️ Deployment: Render, Netlify, Vercel, or GitHub Pages
 
-## 📸 Capturas
-
-_Agrega aquí screenshots si deseas, por ejemplo:_
-
-![Captura de pantalla del portfolio](./screenshot.png)
-
-## 📁 Estructura del proyecto
+## 📁 Project Structure
 
 /src
-/components # Componentes reutilizables (Navbar, ProjectItem, etc.)
-/assets # Imágenes y recursos estáticos
-/pages # Secciones principales del portafolio
-App.jsx # Componente raíz
-index.jsx # Punto de entrada
+/components # Reusable components (Navbar, ProjectItem, etc.)
+/assets # Images and static assets
+/pages # Main sections of the portfolio
+App.jsx # Root component
+index.jsx # Entry point
 
 bash
 Copiar
 Editar
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Vista de proyectos interactiva con animaciones
-- Diseño responsive para móviles, tablets y escritorio
-- Interfaz moderna y minimalista
-- Información personal, skills y enlaces de contacto
+- Interactive project showcase with animations
+- Fully responsive design for mobile, tablet, and desktop
+- Modern and minimalist UI
+- Personal information, skills, and contact links
 
-## 📦 Instalación local
+## 📦 Local Installation
+
+To run the project locally:
 
 ```bash
-git clone https://github.com/TU_USUARIO/portfolio.git
+git clone https://github.com/Ludvin7x/portafolio.git
 cd portfolio
 npm install
 npm run dev
-
-
