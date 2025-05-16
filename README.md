@@ -12,8 +12,7 @@ Check out the portfolio live at:
 - ⚛️ React
 - 💨 Tailwind CSS
 - 🌐 HTML5 & CSS3
-- 📦 Vite *(or Create React App, depending on setup)*
-- ☁️ Deployment: Render, Netlify, Vercel, or GitHub Pages
+- ☁️ Deployment: Netlify
 
 ## 📁 Project Structure
 
@@ -23,10 +22,6 @@ Check out the portfolio live at:
 /pages # Main sections of the portfolio
 App.jsx # Root component
 index.jsx # Entry point
-
-bash
-Copiar
-Editar
 
 ## 🚀 Features
 
