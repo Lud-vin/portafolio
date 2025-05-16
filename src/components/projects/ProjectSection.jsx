@@ -17,6 +17,20 @@ export default function ProjectSection() {
             techStacks: ["React", "Wix"]
         },
         {
+            link: "https://gestion-empleados-api.onrender.com",
+            imgPath: "project2.png",
+            name: "API for Employee Management",
+            description: "API for managing employee data, including CRUD operations",
+            techStacks: ["Flask-Restx", "SqLite", "Python"]
+        },
+        {
+            link: "https://empleados-frontend.netlify.app/",
+            imgPath: "project4.png",
+            name: "Employee Management",
+            description: "Web application for managing employee data, including CRUD operations.",
+            techStacks: ["Angular", "TypeScript", "Bootstrap"]
+        },
+        {
             link: "https://github.com/Ludvin7x/Control-visitas",
             imgPath: "project6.png",
             name: "Visitor Management App",
