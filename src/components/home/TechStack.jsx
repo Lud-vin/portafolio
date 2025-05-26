@@ -43,6 +43,14 @@ export default function TechStack() {
       name: "Node.js",
       url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     },
+    {
+      name: "C#",
+      url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg", 
+    },
+    {
+      name: ".NET",
+      url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg",     
+    }
   ];
 
   return (
