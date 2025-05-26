@@ -49,10 +49,10 @@ export default function TechStack() {
     },
     {
       name: ".NET",
-      url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg",     
+      url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
     }
   ];
-
+  
   return (
     <section className="my-20 flex flex-col items-center bg-gray-900 p-10 rounded-lg">
       <h1 className="text-3xl font-semibold text-gray-200 mb-8">
