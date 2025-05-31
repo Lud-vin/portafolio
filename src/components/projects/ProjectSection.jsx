@@ -16,7 +16,7 @@ export default function ProjectSection() {
             imgPath: "project5.png",
             name: "Ayleen Restaurant",
             description: "Web-based restaurant ordering system with a user-friendly interface for easy navigation and ordering.",
-            techStacks: ["React", "Wix"]
+            techStacks: ["React"]
         },
         {
             link: "https://gestion-empleados-api.onrender.com",
