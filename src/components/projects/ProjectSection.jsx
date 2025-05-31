@@ -43,14 +43,6 @@ export default function ProjectSection() {
             techStacks: ["Kotlin", "Android", "Firebase", "NoSQL"]
         },
         {
-            link: "https://lud-portfolio.netlify.app/",
-            codelink: "https://github.com/7udvin/portfolio-1",
-            imgPath: "project3.png",
-            name: "Personal website",
-            description: "Another version of personal project for showcasing media content and UI experiments.",
-            techStacks: ["React", "JavaScript"]
-        },
-        {
             link: "https://ludvin7x-portfolio.netlify.app/",
             codelink: "https://github.com/Ludvin7x/portafolio",
             imgPath: "project1.png",
