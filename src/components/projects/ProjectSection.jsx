@@ -4,6 +4,7 @@ export default function ProjectSection() {
     const projects = [
         {
             link: "https://restaurant-littlelemon.netlify.app/",
+            codelink: 'https://github.com/Ludvin7x/littlelemon-api',
             imgPath: "project7.png",
             name: "Little Lemon Restaurant",
             description: "A modern restaurant website with an intuitive menu and ordering experience.",
@@ -11,6 +12,7 @@ export default function ProjectSection() {
         },
         {
             link: "https://ludwingdf.wixsite.com/ayleen",
+            codelink: "https://github.com/Ludvin7x/Ayleen-Restaurant",
             imgPath: "project5.png",
             name: "Ayleen Restaurant",
             description: "Web-based restaurant ordering system with a user-friendly interface for easy navigation and ordering.",
@@ -18,20 +20,23 @@ export default function ProjectSection() {
         },
         {
             link: "https://gestion-empleados-api.onrender.com",
+            codelink: "https://github.com/Ludvin7x/empleados-Backend",
             imgPath: "project2.png",
-            name: "API for Employee Management",
+            name: "Employee Management Back-end",
             description: "API for managing employee data, including CRUD operations",
             techStacks: ["Flask-Restx", "SqLite", "Python"]
         },
         {
             link: "https://empleados-frontend.netlify.app/",
+            codelink: "https://github.com/Ludvin7x/empleados-Backend",
             imgPath: "project4.png",
-            name: "Employee Management",
+            name: "Employee Management Front-end",
             description: "Web application for managing employee data, including CRUD operations.",
             techStacks: ["Angular", "TypeScript", "Bootstrap"]
         },
         {
             link: "https://github.com/Ludvin7x/Control-visitas",
+            codelink: "https://github.com/Ludvin7x/Control-visitas",
             imgPath: "project6.png",
             name: "Visitor Management App",
             description: "Android app for managing visitor access, notifications, and reporting for both residents and admins.",
@@ -39,13 +44,15 @@ export default function ProjectSection() {
         },
         {
             link: "https://lud-portfolio.netlify.app/",
+            codelink: "https://github.com/7udvin/portfolio-1",
             imgPath: "project3.png",
             name: "Personal website",
-            description: "A personal project for showcasing media content and UI experiments.",
+            description: "Another version of personal project for showcasing media content and UI experiments.",
             techStacks: ["React", "JavaScript"]
         },
         {
             link: "https://ludvin7x-portfolio.netlify.app/",
+            codelink: "https://github.com/Ludvin7x/portafolio",
             imgPath: "project1.png",
             name: "📜 Portfolio 💼",
             description: "My personal portfolio showcasing my projects, skills, and experience.",
@@ -64,6 +71,7 @@ export default function ProjectSection() {
                         imgPath={project.imgPath}
                         name={project.name}
                         description={project.description}
+                        codeLink={project.codelink}
                         techStacks={project.techStacks}
                     />
                 ))}
