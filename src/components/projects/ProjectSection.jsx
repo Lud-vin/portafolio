@@ -6,9 +6,17 @@ export default function ProjectSection() {
             link: "https://restaurant-littlelemon.netlify.app/",
             codelink: 'https://github.com/Ludvin7x/littlelemon-api',
             imgPath: "project7.png",
-            name: "Little Lemon Restaurant",
+            name: "Little Lemon Restaurant Front-end",
             description: "A modern restaurant website with an intuitive menu and ordering experience.",
-            techStacks: ["React", "JavaScript"]
+            techStacks: ["React", "JavaScript", "CSS"]
+        },
+        {
+            link:"https://little-lemon-api-yexw.onrender.com/admin",
+            codelink: "https://github.com/Ludvin7x/littlelemon-api",    
+            imgPath: "project3.png",
+            name: "Little Lemon Restaurant Back-end",
+            description: "A RESTful API for managing restaurant data, including menu items and orders.",
+            techStacks: ["Django", "Python", "MySQL"]
         },
         {
             link: "https://ludwingdf.wixsite.com/ayleen",
