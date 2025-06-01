@@ -3,7 +3,7 @@ import ProjectItem from "./ProjectItem";
 export default function ProjectSection() {
     const projects = [
         {
-            link: "https://restaurant-littlelemon.netlify.app/",
+            link: "https://lemon-front.netlify.app/",
             codelink: 'https://github.com/Ludvin7x/littlelemon-api',
             imgPath: "project7.png",
             name: "Little Lemon Restaurant Front-end",
