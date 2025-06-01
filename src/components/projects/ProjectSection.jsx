@@ -8,7 +8,7 @@ export default function ProjectSection() {
             imgPath: "project7.png",
             name: "Little Lemon Restaurant Front-end",
             description: "A modern restaurant website with an intuitive menu and ordering experience.",
-            techStacks: ["React", "JavaScript", "CSS"]
+            techStacks: ["React","Bootstrap" , "JavaScript", "CSS", "Vite"]
         },
         {
             link:"https://little-lemon-api-yexw.onrender.com/admin",
@@ -16,7 +16,7 @@ export default function ProjectSection() {
             imgPath: "project3.png",
             name: "Little Lemon Restaurant Back-end",
             description: "A RESTful API for managing restaurant data, including menu items and orders.",
-            techStacks: ["Django", "Python", "MySQL"]
+            techStacks: ["Django", "Python", "MySQL", "JWT"]
         },
         {
             link: "https://ludwingdf.wixsite.com/ayleen",
