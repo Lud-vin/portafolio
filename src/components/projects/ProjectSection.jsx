@@ -9,26 +9,45 @@ export default function ProjectSection() {
       name: "Lemon Restaurant Front-end",
       description: (
         <>
-          A modern restaurant website featuring an intuitive menu, a seamless
-          ordering experience with a **shopping cart system**, and robust **user
-          registration**. You can **create your own account or use the provided
-          demo credentials**.
+          A modern restaurant web app with <strong>user authentication</strong>,{" "}
+          <strong>shopping cart functionality</strong>, and{" "}
+          <strong>Stripe payment integration</strong>. Users can browse the
+          menu, place orders, and pay securely.
           <br />
           <br />
-          **Demo Account:** Username: customer, Password: test1234
+          <strong>Demo Account or create a new user:</strong> Username:{" "}
+          <code>customer</code>, Password: <code>test1234</code>
         </>
       ),
-      techStacks: ["React", "Bootstrap", "JavaScript", "CSS", "Vite"],
+      techStacks: [
+        "React",
+        "tailwindcss",
+        "Shadcn",
+        "JavaScript",
+        "CSS",
+        "stripe",
+      ],
     },
+
     {
       link: "https://little-lemon-api-yexw.onrender.com/admin",
       codelink: "https://github.com/Ludvin7x/littlelemon-api",
       imgPath: "project3.png",
       name: "Lemon Restaurant Back-end",
-      description:
-        "A RESTful API for managing restaurant data, including menu items, orders, users.",
-      techStacks: ["Django", "Python", "MySQL", "JWT", "Sqlite"],
+      description: (
+        <>
+          A robust RESTful API built for managing a restaurant platform. It features{" "}
+          <strong>JWT-based authentication</strong>,{" "}
+          <strong>user and role management</strong>,{" "}
+          <strong>shopping cart handling</strong>,{" "}
+          <strong>Stripe payment integration</strong>,{" "}
+          <strong>pagination</strong>, and{" "}
+          <strong>filtering capabilities</strong> for efficient data access.
+        </>
+      ),
+      techStacks: ["Django", "Python", "MySQL", "JWT", "SQLite", "Stripe"],
     },
+
     {
       link: "https://ludwingdf.wixsite.com/ayleen",
       codelink: "https://github.com/Ludvin7x/Ayleen-Restaurant",
