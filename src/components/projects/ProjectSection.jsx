@@ -36,8 +36,8 @@ export default function ProjectSection() {
       name: "Lemon Restaurant Back-end",
       description: (
         <>
-          A robust RESTful API built for managing a restaurant platform. It features{" "}
-          <strong>JWT-based authentication</strong>,{" "}
+          A robust RESTful API built for managing a restaurant platform. It
+          features <strong>JWT-based authentication</strong>,{" "}
           <strong>user and role management</strong>,{" "}
           <strong>shopping cart handling</strong>,{" "}
           <strong>Stripe payment integration</strong>,{" "}
@@ -47,23 +47,13 @@ export default function ProjectSection() {
       ),
       techStacks: ["Django", "Python", "MySQL", "JWT", "SQLite", "Stripe"],
     },
-
-    {
-      link: "https://ludwingdf.wixsite.com/ayleen",
-      codelink: "https://github.com/Ludvin7x/Ayleen-Restaurant",
-      imgPath: "project5.png",
-      name: "Ayleen Restaurant",
-      description:
-        "Web-based restaurant ordering system with a user-friendly interface for easy navigation and ordering.",
-      techStacks: ["React"],
-    },
     {
       link: "https://gestion-empleados-api.onrender.com",
       codelink: "https://github.com/Ludvin7x/empleados-Backend",
       imgPath: "project2.png",
       name: "Employee Management Back-end",
       description: "API for managing employee data, including CRUD operations",
-      techStacks: ["Flask-Restx", "SqLite", "Python"],
+      techStacks: ["Flask", "SQLite", "Python"],
     },
     {
       link: "https://empleados-frontend.netlify.app/",
@@ -82,6 +72,15 @@ export default function ProjectSection() {
       description:
         "Android app for managing visitor access, notifications, and reporting for both residents and admins.",
       techStacks: ["Kotlin", "Android", "Firebase", "NoSQL"],
+    },
+    {
+      link: "https://ludwingdf.wixsite.com/ayleen",
+      codelink: "https://github.com/Ludvin7x/Ayleen-Restaurant",
+      imgPath: "project5.png",
+      name: "Ayleen Restaurant",
+      description:
+        "Web-based restaurant ordering system with a user-friendly interface for easy navigation and ordering.",
+      techStacks: ["React"],
     },
     {
       link: "https://ludvin7x-portfolio.netlify.app/",
