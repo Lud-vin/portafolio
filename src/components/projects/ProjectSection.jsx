@@ -4,7 +4,7 @@ export default function ProjectSection() {
   const projects = [
     {
       link: "https://lemon-front.netlify.app/",
-      codelink: "https://github.com/Ludvin7x/littlelemon-api",
+      codelink: "https://github.com/Ludvin7x/lemon_front-end",
       imgPath: "project7.png",
       name: "Lemon Restaurant Front-end",
       description: (
