@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function HeroSection() {
   return (
@@ -14,13 +14,16 @@ export default function HeroSection() {
 
       {/* Intro Text */}
       <div className="text-center md:text-left">
-        <h1 className="text-4xl font-bold mb-4">Hi, I'm Ludvin 👋</h1>
+        <h1 className="text-4xl font-bold mb-4">Hi, I'm [Your Name] 👋</h1>
         <p className="text-lg leading-relaxed max-w-xl">
-          I'm a passionate <span className="text-blue-400">Software Engineer</span> and 
-          <span className="text-green-400"> Cybersecurity Master's student</span> with experience in building 
-          secure, scalable web applications. I enjoy creating elegant solutions with 
-          modern technologies like <strong>React</strong>, <strong>Python</strong>, and <strong>Django</strong>, 
-          and I'm always eager to learn something new.
+          I'm a{" "}
+          <span className="text-blue-400">
+            Systems and Computer Science Engineer
+          </span>{" "}
+          with expertise across the
+          <span className="text-green-400"> Full Stack</span>. Currently, I'm
+          expanding my knowledge through a Master's in Cybersecurity, focusing
+          on developing secure and efficient software systems.
         </p>
       </div>
     </section>
