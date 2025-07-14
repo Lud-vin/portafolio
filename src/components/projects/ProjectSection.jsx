@@ -31,7 +31,7 @@ export default function ProjectSection() {
 
     {
       link: "https://little-lemon-api-yexw.onrender.com/admin",
-      codelink: "https://github.com/Ludvin7x/littlelemon-api",
+      codelink: "https://github.com/Lud-vin/littlelemon-api",
       imgPath: "project3.png",
       name: "Lemon Restaurant Back-end",
       description: (
@@ -49,7 +49,7 @@ export default function ProjectSection() {
     },
     {
       link: "https://gestion-empleados-api.onrender.com",
-      codelink: "https://github.com/Ludvin7x/empleados-Backend",
+      codelink: "https://github.com/Lud-vin/empleados-Backend",
       imgPath: "project2.png",
       name: "Employee Management Back-end",
       description: "API for managing employee data, including CRUD operations",
@@ -57,7 +57,7 @@ export default function ProjectSection() {
     },
     {
       link: "https://empleados-frontend.netlify.app/",
-      codelink: "https://github.com/Ludvin7x/empleados-Backend",
+      codelink: "https://github.com/Lud-vin/empleados-Backend",
       imgPath: "project4.png",
       name: "Employee Management Front-end",
       description:
@@ -66,7 +66,7 @@ export default function ProjectSection() {
     },
     {
       link: "https://github.com/Ludvin7x/Control-visitas",
-      codelink: "https://github.com/Ludvin7x/Control-visitas",
+      codelink: "https://github.com/Lud-vin/Control-visitas",
       imgPath: "project6.png",
       name: "Visitor Management App",
       description:
@@ -75,7 +75,7 @@ export default function ProjectSection() {
     },
     {
       link: "https://ludwingdf.wixsite.com/ayleen",
-      codelink: "https://github.com/Ludvin7x/Ayleen-Restaurant",
+      codelink: "https://github.com/Lud-vin/Ayleen-Restaurant",
       imgPath: "project5.png",
       name: "Ayleen Restaurant",
       description:
@@ -84,7 +84,7 @@ export default function ProjectSection() {
     },
     {
       link: "https://ludvin7x-portfolio.netlify.app/",
-      codelink: "https://github.com/Ludvin7x/portafolio",
+      codelink: "https://github.com/Lud-vin/portafolio",
       imgPath: "project1.png",
       name: "📜 Portfolio 💼",
       description:
