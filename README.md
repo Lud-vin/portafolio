@@ -35,7 +35,7 @@ index.jsx # Entry point
 To run the project locally:
 
 ```bash
-git clone https://github.com/Ludvin7x/portafolio.git
+git clone https://github.com/Lud-vin/portafolio.git
 cd portfolio
 npm install
 npm run dev

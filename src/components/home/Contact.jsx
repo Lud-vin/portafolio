@@ -13,14 +13,14 @@ export default function Contact() {
 
             <div className="2xs:text-xl sm:text-2xl flex flex-col items-center space-y-5 py-10 mt-5 transition-all">
                 <a
-                    href="https://github.com/ludvin7x"
+                    href="https://github.com/Lud-vin"
                     target="_blank"
                     rel="noreferrer"
                     className="flex items-center space-x-2 hover:text-gray-200 hover:scale-110 transition-all "
                 >
                     <i className="fa-brands fa-github hover:animate-spin-ease"></i>
                     <span className="2xs:text-sm sm:text-base">
-                        github.com/ludvin7x
+                        github.com/Lud-vin
                     </span>
                 </a>
                 <a

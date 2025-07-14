@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <nav className="flex justify-between bg-neutral-900 2xs:px-2 xs:px-4 sm:px-10 md:px-14 lg:px-32 py-6 border-b-2 border-neutral-600 2xs:text-sm xs:text-base sm:text-lg md:text-xl 3xl:text-3xl">
             <a 
-                href="https://github.com/ludvin7x"
+                href="https://github.com/Lud-vin"
                 target="_blank"
                 rel="noreferrer"
                 className='tracking-wide hover:text-gray-100 hover:drop-shadow-white-text transition'
