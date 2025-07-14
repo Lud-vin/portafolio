@@ -65,7 +65,7 @@ export default function ProjectSection() {
       techStacks: ["Angular", "TypeScript", "Bootstrap"],
     },
     {
-      link: "https://github.com/Ludvin7x/Control-visitas",
+      link: "https://github.com/Lud-vin/Control-visitas",
       codelink: "https://github.com/Lud-vin/Control-visitas",
       imgPath: "project6.png",
       name: "Visitor Management App",
@@ -83,7 +83,7 @@ export default function ProjectSection() {
       techStacks: ["React"],
     },
     {
-      link: "https://ludvin7x-portfolio.netlify.app/",
+      link: "https://lud-vin-portfolio.netlify.app/",
       codelink: "https://github.com/Lud-vin/portafolio",
       imgPath: "project1.png",
       name: "📜 Portfolio 💼",
